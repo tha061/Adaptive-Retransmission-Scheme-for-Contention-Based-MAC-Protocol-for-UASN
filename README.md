@@ -31,6 +31,6 @@ If you find any bug, please send your feedback to nttham0611@gmail.com
 The code is licensed under Copyright (c) 2012 Regents of the SIGNET lab, University of Padova. All rights reserved.
 
 
-### If you use our code in your research and/or software, we would appreciate citations to the following paper:
+##### If you use our code in your research and/or software, we would appreciate citations to the following paper:
 
 Thi-Tham Nguyen and Seokhoon Yoon. 2015. ARS: an adaptive retransmission scheme for contention-based MAC protocols in underwater acoustic sensor networks. Int. J. Distrib. Sen. Netw. 2015, Article 16. DOI:https://doi.org/10.1155/2015/826263
